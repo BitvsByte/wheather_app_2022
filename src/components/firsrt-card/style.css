@@ -1,0 +1,63 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+p{
+    margin: 0;
+}
+blocklquote{
+    margin:0;
+}
+
+.iconActual{
+    font-size: 90px;
+   
+    display: flex;
+    align-items: center;
+
+    
+}
+
+.btn__f{
+    all:unset;
+    background: transparent;
+    cursor:none;
+
+}
+.inform{
+    font-size: 15px;
+    
+    
+}
+.meteo{
+    
+    display: flex;
+    align-items: center;
+  
+}
+.meteo2{
+    
+   
+
+    
+    font-size: 20px;
+}
+
+.hola{
+    
+   
+    display: flex;
+   
+}
+.temperatura{
+    font-weight: bold;
+    font-size: 80px;
+
+}
+.p-1 mb-1 bg-white rounded{
+
+}
+
+
+

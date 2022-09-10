@@ -1,0 +1,14 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+
+.textColorA{
+    color: #306569;
+}
+
+.hola{
+    border-radius: 5px 0px 0px 5px;
+}
